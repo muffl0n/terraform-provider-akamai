@@ -25,7 +25,7 @@ require (
 	github.com/jedib0t/go-pretty/v6 v6.0.4
 	github.com/jinzhu/copier v0.3.2
 	github.com/spf13/cast v1.5.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/tj/assert v0.0.3
 	golang.org/x/exp v0.0.0-20230809150735-7b3493d9a819
 	golang.org/x/sync v0.6.0
@@ -69,7 +69,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
